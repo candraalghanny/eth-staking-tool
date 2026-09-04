@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>EthStake.Core</RootNamespace>
+    <AssemblyName>EthStake.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
